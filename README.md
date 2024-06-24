@@ -4,7 +4,7 @@ This repository consists of following two parts:
 - Running active learning pipeline for ultra-large-scale docking
 - Anlyzing why active learning was so effective
 
-Technical details and thorough analysis can be found in our paper, [Understanding active learning of molecular docking and its applications](http://), written by Jeonghyeon Kim, Juno Nam and Seogok Ryu. If you have any question, feel free to open an issue or reach out at jasonkjh@snu.ac.kr.
+Technical details and thorough analysis can be found in our paper, [Understanding active learning of molecular docking and its applications](https://arxiv.org/abs/2406.12919), written by Jeonghyeon Kim, Juno Nam and Seogok Ryu. If you have any question, feel free to open an issue or reach out at jasonkjh@snu.ac.kr.
 
 ## Installation
 
